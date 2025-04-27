@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabhsingh1905" alt="saurabhsingh1905" /></a> </p>
 
-- 🌱 I’m currently learning **Cillium,**
+- 🌱 I’m currently performing drills for **Cka,Cks,Terraform,AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/saurabhsingh1905](https://github.com/saurabhsingh1905)
 
 - 💬 Ask me about **Devops & Cloud DevOps**
 
-- 📫 How to reach me **singhsaurabh190598@gmail.com**
+- 📫 How to reach me **singhsaurabh1905@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
